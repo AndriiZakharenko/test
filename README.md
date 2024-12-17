@@ -1,6 +1,16 @@
-# Test
-Added the basic page markup and the text `Hello, world!` into the body.
+# Hello world
 
-## Demo Links
+### Stack
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/test/)
+- HTML (BEM)
+
+### Tools
+
+- ESlint
+- Prettier
+- Jest
+- Parcel
+
+### Demo Links
+
+- [Demo](https://AndriiZakharenko.github.io/hello-world/)
