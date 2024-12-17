@@ -1,4 +1,4 @@
-# Hello world
+# Test
 
 ### Description
 
@@ -10,4 +10,4 @@
 
 ### Demo links
 
-- [Demo](https://AndriiZakharenko.github.io/hello-world/)
+- [Demo](https://AndriiZakharenko.github.io/test/)
