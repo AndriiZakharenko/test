@@ -8,6 +8,6 @@
 
 - HTML (BEM)
 
-### Demo Links
+### Demo links
 
 - [Demo](https://AndriiZakharenko.github.io/hello-world/)
