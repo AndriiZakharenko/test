@@ -1,19 +1,19 @@
 # Test
 
-### 🎮 About the Project
+## 🎮 About the Project
 A simple "Hello World" message displayed in the HTML body using modern web technologies.
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 - **HTML** (BEM methodology for structured markup)
 - **CSS** (Responsive & clean styles)
 
-### 📌 Features
+## 📌 Features
 ✅ Simple and clean design  
 ✅ Responsive for both desktop and mobile
 
-#### 🌐 Demo
+## 🌐 Demo
 🔗 [Live Demo](https://AndriiZakharenko.github.io/test/)
 
-### 📜 License
+## 📜 License
 This project is open-source and available for all
 
